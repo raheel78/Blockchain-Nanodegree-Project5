@@ -11,7 +11,7 @@ Previously, you learned to create your own private blockchain web service. In th
 - Contract address: (`0x4b54e06131884604cc75501bfc30b44e0d0d70f9`)
 - Contract creation transaction: (`0x4b04e56feb79fbd8493056cfb1ecae5ce64d1511696b3caf0f20be5dfe2077a3`)
 - <a href="https://rinkeby.etherscan.io/tx/0x4b04e56feb79fbd8493056cfb1ecae5ce64d1511696b3caf0f20be5dfe2077a3">URL on Etherscan of contract creation transaction</a>
-- <a href="https://rinkeby.etherscan.io/address/0x4b54e06131884604cc75501bfc30b44e0d0d70f9>Contract page on Etherscan</a>
+- <a href="https://rinkeby.etherscan.io/address/0x4b54e06131884604cc75501bfc30b44e0d0d70f9">Contract page on Etherscan</a>
 
 ## Getting Started
 
