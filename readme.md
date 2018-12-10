@@ -52,10 +52,10 @@ You can run automated tests through `truffle` from your command line, as shown b
 1. Make sure you are at root path of the cloned folder
 2. Also, make sure that some local ethereum client (such as; ganache GUI or ganache-cli) must be running on your local PC
 3. Change directory to `smart_contracts` folder (e.g. cd smart_contracts)
-4. Run command:  `truffle test`
+4. Run command:  `truffle test test/StarNotaryTest.js`
 5. Successful test execution should look something like below:
 
-<img src="images/testcase-success.png">
+<img src="images/star-notary-test-success.png">
 
 
 
