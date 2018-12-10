@@ -1,3 +1,8 @@
+
+ 
+ <img src="images/eth-big-icon.png" style="width: 10px; height: 10px">
+
+
 # Project 5 - Decentralized Star Notary
 
 Welcome to Project 5: Decentralized Star Notary
@@ -18,14 +23,16 @@ Previously, you learned to create your own private blockchain web service. In th
 These instructions will get you a copy of the project. You can follow below instructions to start making connection with Smart Contract on rinkeby network:
 
 1. Download or clone this repo to a local folder on your machine
-    - git clone <...>
+    - git clone https://github.com/raheel78/Blockchain-Nanodegree-Project5.git
 2. Open terminal (MAC/linux) or command prompt (windows variants) on your desktop
 3. Run `npm install` to install dependencies from package.json
 4. Run any JS server (http-server) or simply node client
     - http-server (open browser and point to http://127.0.0.1:8080)
     - node index.html
 5. This will open the index.html in your browser and if all goes smooth then you should a page as shown below:
-<index.html screenshot will come here>
+
+<img src="images/web-frontend.png">
+
 
 ## Prerequisites
 
@@ -47,7 +54,8 @@ You can run automated tests through `truffle` from your command line, as shown b
 3. Change directory to `smart_contracts` folder (e.g. cd smart_contracts)
 4. Run command:  `truffle test`
 5. Successful test execution should look something like below:
-<screenshot will come here>
+
+<img src="images/testcase-success.png">
 
 
 
