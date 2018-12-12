@@ -1,6 +1,6 @@
 
 var HDWalletProvider = require("truffle-hdwallet-provider");
-var mnemonic = "follow gloom sell picnic mad soap fringe humble mention nature avocado auto";  //from metamask
+var mnemonic = "";  //copy from the metamask seed words
 
 // https://rinkeby.etherscan.io/address/0xd299cae6bb8ff03b3b4b4dddbc757c2ddb7c4d26   (rinkeby faucet)
 
